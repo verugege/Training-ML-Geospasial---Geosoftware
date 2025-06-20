@@ -6,6 +6,7 @@
 Pertanyaan :
 Seberapa banyak kunci jawaban yg diperlukan sehingga rules yg dihasilkan ML bisa dikatakan layak digunakan pada system?
 dan bagaimana cara / metode menentukan bahwa rules yang telah dibuat layak digunakan?
+
 jawaban :
 Suatu model machine learning dapat dikatakan layak digunakan untuk system apabila telah memenuhi standar akurasi tertentu yang diharapkan.
 Setiap study kasus atau data memiliki rentang standar akurasi yang berbeda tergantung tingkat kerumitan atau kompleksitas tugas/task yang dikerjakan. 
@@ -26,6 +27,7 @@ Perbedaan Supervised Learning dan Unsupervised Learning :
 
 Pertanyaan :
 apa pertimbangan untuk pemilihan data raster atau data vector kak? 
+
 jawaban :
 Pertimbangannya terkait tujuan penggunaan datanya. Apabila data yang dibutuhkan seperti citra satelit, data DEM, maka data raster dapat digunakan. Namun apabila data yang digunakan seperti batas wilayah, maka data vektor dapat digunakan.
 
@@ -42,7 +44,8 @@ karena nanti jika di hitung akan ada perbedaan antara PCS dan GCS
 
 Pertanyaan :
 Boleh dijelaskan lagi secara lebih sederhana kak penggunaan secara umum ML pada pengolahan data geospasial beserta aplikasinya?
-Jawaban :
+Jawaban : 
+ML adalah model/algortima yang dapat digunakan pada data geospasial. Artinya data geospasial digunakan sebagai input datanya, ML sebagai model/algoritmanya untuk tujuan tertentu. Contohnya adalah kita dapat menggunakan citra satelit sebagai input data untuk memetakan penutup/penggunaan lahan menggunakan model ML. Misalnya memetakan vegetasi menggunakan data citra satelit dengan model ML.
 
 
  ## Lanjut praktek di google colab
