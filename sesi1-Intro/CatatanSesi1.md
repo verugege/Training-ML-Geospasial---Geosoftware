@@ -40,6 +40,15 @@ PCS lebih untuk perhitungan geometri/ jarak luas daerah
 GCS untuk penetuan posisi saja, kalau untuk perhitungan mending trasnform ke PCS dl
 karena nanti jika di hitung akan ada perbedaan antara PCS dan GCS
 
+Pertanyaan :
+Boleh dijelaskan lagi secara lebih sederhana kak penggunaan secara umum ML pada pengolahan data geospasial beserta aplikasinya?
+Jawaban :
 
- ## Lanjut praktek di google colab 
 
+ ## Lanjut praktek di google colab
+ - membuat google colab dari gdrive
+ - check version python
+ - import library
+ - membuat dataframe
+ - menghubungkan gdrive ke google colab
+ - check status gdrive tersambung pada google colab atau tidak
