@@ -8,3 +8,10 @@
 - Sistem Koordinat Dan Proyeksi dalam Konteks ML
 - Sumber Data Geospasial untuk ML
 - Hal-hal yang Harus Diperhatikan dalam Analisis Geospasial dengan ML
+
+## Sesi 2 (Sabtu, 21 Juni 2025 Pukul 09.30-11.30 WIB) 
+- Pengenalan Data Vektor untuk ML
+- Pembersihan Data Geospasial Jenis Vektor
+- Transformasi koordinat dan proyeksi
+- Konsep Feature Engineering
+- Feature Engineering untuk Data Vektor
