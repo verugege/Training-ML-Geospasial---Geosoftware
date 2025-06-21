@@ -57,9 +57,30 @@ ML lebih mudah mengolah data numeric makanya harus di encode ke angka/numerik
 Lanjut praktek di google colab bro
 ![image](https://github.com/user-attachments/assets/c5dcbef0-1a6c-4d44-a55f-97d93f214de0)
 
+
+## Praktek
 check data.info()
 fitur (preditor)
 target (label/keyword/kunci jawaban)
 
 setelah melihat data check ada null atau tida
 terus tentukan mana fitur mana target
+
+check data.info()
+type data yg digunakan mesti numeric(Float)
+jadi nanti yang bentuk object mesti dirubah ke numerik dengan teknik encoding/one hot encoding
+
+misal target resiko_kredit
+fitur bisa menggunakan yng sudah ada atau membuat fitur baru dari data yg ada
+
+kalau mau main main bisa download ata di :
+https://www.indonesia-geospasial.com/p/sitemap.html
+
+ini bro datanya harus dikonversi dulu dari GSC ke PSC
+![image](https://github.com/user-attachments/assets/7cbea85a-2777-4b8a-a2a6-f8ca913c34cc)
+
+Mas misalnya daerah nya berada di 2 zona UTM gimana? Kaya misalnya mau meneliti Jatim dan Jateng?
+pilih UTM yang paling besar/bisa cek situs ini https://epsg.io
+
+
+
