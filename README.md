@@ -23,3 +23,10 @@
 - Resampling dan Normalisasi Raster
 - Ekstraksi Fitur Dari Data Raster
 
+## Sesi 4 (Rabu, 25 Juni 2025 Pukul 18.30-20.30 WIB ) 
+- Regresi vs Klasifikasi
+- Konsep Dasar Regresi Linier
+- Konsep Dasar Klasifikasi
+- Metrik Evaluasi untuk Regresi
+- Metrik Evaluasi untuk Klasifikasi
+
