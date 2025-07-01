@@ -30,3 +30,9 @@
 - Metrik Evaluasi untuk Regresi
 - Metrik Evaluasi untuk Klasifikasi
 
+## Sesi 5 (Selasa, 1 Juli 2025 Pukul 18.30-20.30 WIB)
+- Decision Tree untuk Data Geospasial
+- Random Forest untuk Data Geospasial
+- Evaluasi Model Klasifikasi Lanjutan
+- Hyperparameter Tuning
+- Feature Importance dan Seleksi Fitur
