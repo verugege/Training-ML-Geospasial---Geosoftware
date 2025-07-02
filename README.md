@@ -36,3 +36,10 @@
 - Evaluasi Model Klasifikasi Lanjutan
 - Hyperparameter Tuning
 - Feature Importance dan Seleksi Fitur
+
+## Sesi 6 (Rabu, 2 Juli 2025 Pukul 18.30-20.30 WIB)
+- Regresi Polinomial untuk Data Raster
+- Ensemble Methods untuk Regresi
+- Evaluasi Model Regresi Lanjutan
+- Klasifikasi Citra Satelit
+- Evaluasi Klasifikasi Citra
