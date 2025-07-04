@@ -43,3 +43,10 @@
 - Evaluasi Model Regresi Lanjutan
 - Klasifikasi Citra Satelit
 - Evaluasi Klasifikasi Citra
+
+## Sesi 7 (Jumat, 4 Juli 2025 Pukul 18.30-20.30 WIB)
+- Pengenalan Unsupervised Learning
+- Algoritma K-Means
+- Evaluasi Hasil Clustering
+- Segmentasi Citra Satelit
+- Deteksi Anomali Spasial
