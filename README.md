@@ -50,3 +50,10 @@
 - Evaluasi Hasil Clustering
 - Segmentasi Citra Satelit
 - Deteksi Anomali Spasial
+
+## Sesi 8 (Sabtu, 5 Juli 2025 Pukul 09.30-11.30WIB)
+- Mengintegrasikan Model ML dengan GIS
+- Visualisasi Peta Interaktif dengan Folium
+- Visualisasi dengan QGIS
+- Visualisasi Hasil Machine Learning Lanjut
+
